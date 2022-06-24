@@ -5,6 +5,4 @@ Seguí el tutorial de Nicholas Renotte (https://www.youtube.com/watch?v=IOI0o3Cx
 
 Para el etiquetado de las fotos para entrenar use LabelImg que Nicholas explica cómo instalarlo y usarlo.
 
-Me encontré con muchas dificultades para usar la API y no encontré que me funcionara ninguna alternativa de conectar la web cam desde Colab, pero se puede pasar un video y hacer la detección.
-
 Espero lo puedan hacer al ejercicio! es muy interesante para comenzar.
